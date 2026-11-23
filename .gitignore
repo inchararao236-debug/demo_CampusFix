@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+complaints.db
+complaints_backup_*.db
+
+app_backup*.py
